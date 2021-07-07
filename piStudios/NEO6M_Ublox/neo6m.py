@@ -1,5 +1,5 @@
 from signal import signal, SIGTERM, SIGHUP, pause
-from time import timeout
+import time 
 import pynmea2
 import string 
 import serial
