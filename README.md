@@ -1,7 +1,7 @@
 ## Working With Embeded Systems, Internet of Things
 <hr>
 
-<img align="left" src="https://img.shields.io/badge/License-MIT2.0-blue.svg"><br>
+<img align="left" src="https://img.shields.io/badge/License-MIT2.0-blue.svg">
 ![GitHub repo size](https://img.shields.io/github/repo-size/okomojacob/192.168_Embeded-System?color=green-yellow&logo=github&logoColor=blue) 
 ![GitHub language count](https://img.shields.io/github/languages/count/OkomoJacob/192.168_Embeded-System?logo=visual-studio-code) 
 ![GitHub top language](https://img.shields.io/github/languages/top/okomojacob/192.168_Embeded-System)
